@@ -10,6 +10,23 @@
       "StackName": "amplify-testaws-dev-bcf7d",
       "StackId": "arn:aws:cloudformation:us-east-1:339712973246:stack/amplify-testaws-dev-bcf7d/0b7e8be0-319b-11f0-ba76-12578591e4e7",
       "AmplifyAppId": "d2slvt32zqjgvn"
+    },
+    "categories": {
+      "auth": {
+        "testaws41ca56b8": {}
+      },
+      "function": {
+        "testawsdd73066f": {
+          "deploymentBucketName": "amplify-testaws-dev-bcf7d-deployment",
+          "s3Key": "amplify-builds/testawsdd73066f-6a503152356e39705667-build.zip"
+        }
+      },
+      "api": {
+        "apid771fbbe": {}
+      },
+      "storage": {
+        "dynamodc85558f": {}
+      }
     }
   }
 }

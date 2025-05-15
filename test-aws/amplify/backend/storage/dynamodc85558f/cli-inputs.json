@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamodc85558f",
+  "tableName": "dynamodc85558f",
+  "partitionKey": {
+    "fieldName": "ati",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
